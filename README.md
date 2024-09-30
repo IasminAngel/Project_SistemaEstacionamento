@@ -57,3 +57,6 @@ Este projeto utiliza um sensor ultrassônico para medir a distância de um objet
 - Adicionar um display LCD para mostrar a distância medida.
 - Ajustar os limites de distância conforme o uso prático.
 - Implementar uma funcionalidade para desligar manualmente os alertas.
+
+
+**Participações:** Iasmin Angel, Daniel Lucas, Lucas Santana e Kauan Nascimento. ( *Para uma equipe do coração* 🥰 )
