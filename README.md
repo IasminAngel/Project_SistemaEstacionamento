@@ -59,4 +59,4 @@ Este projeto utiliza um sensor ultrassônico para medir a distância de um objet
 - Implementar uma funcionalidade para desligar manualmente os alertas.
 
 
-**Participações:** Iasmin Angel, Daniel Lucas, Lucas Santana e Kauan Nascimento. ( *Para uma equipe do coração* 🥰 )
+**Participações:** Iasmin Angel, Daniel Lucas, Lucas Santana e Kauan Nascimento ( *Para uma equipe do coração* 🥰 ).
