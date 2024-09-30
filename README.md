@@ -60,3 +60,4 @@ Este projeto utiliza um sensor ultrassônico para medir a distância de um objet
 
 
 **Participações:** Iasmin Angel, Daniel Lucas, Lucas Santana e Kauan Nascimento ( *Para uma equipe do coração* 🥰 ).
+**Agradecimentos:** USINAINFO, blog utilizado como base para estruturação do projeto, por Fábio Costa.
